@@ -1,4 +1,5 @@
 /.ruby-version
 /Gemfile.lock
 /.bundle/
+/tmp/
 /vendor/
